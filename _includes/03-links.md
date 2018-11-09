@@ -1,1 +1,1 @@
-[Cybrary] (www.cybrary.com)
+[Cybrary] (http://cybrary.com)
