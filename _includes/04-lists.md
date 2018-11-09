@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Food - :Silly: Eggs
+Games - :Smile: Gears of war
+Activities - :Frown: Computers
