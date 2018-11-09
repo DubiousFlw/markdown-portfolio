@@ -14,4 +14,4 @@ layout: default
 
 <br>
 
-{% include 04-image ![Image of GitBot](https://avatars0.githubusercontent.com/in/10572?s=88&v=4) %}
+{% incude 04-image.md %}
